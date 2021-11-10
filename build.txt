@@ -1,0 +1,3 @@
+displayName = Mod where you will explore Shadow Gates castle.
+author = alast & HeavyBro
+version = 0.1

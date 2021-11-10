@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VJsoHcwvjdudo3YrkMzChaZjhdieOuPt8/zSuAtwY6CXhI5FJ03shpvnIz4TJx82z5D0ygsjg9XCsNB/rtS5Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Natalja\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ShadowGatesMod\\ShadowGatesMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natalja\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
